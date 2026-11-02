@@ -20,10 +20,10 @@
 
 ## Features
 
-- **Google Maps lead extractor:** phone, address, rating, reviews and website for any business type, in any city (Arabic names included)
+- **[Google Maps lead extractor](https://useleadtrapper.com/google-maps-scraper/):** phone, address, rating, reviews and website for any business type, in any city (Arabic names included)
 - **Website Contact Finder:** emails, phone and WhatsApp numbers, addresses and social profiles from business websites
 - **Number Filter:** check which phone numbers are on WhatsApp before you message them
-- **WhatsApp campaigns:** personalised messages, message rotation, scheduling and a delay calculator for safe pacing
+- **[WhatsApp campaigns](https://useleadtrapper.com/whatsapp-bulk-sender/):** personalised messages, message rotation, scheduling and a delay calculator for safe pacing
 - **Broadcast List Maker:** turn a phone list into WhatsApp-ready contacts
 - **Several WhatsApp accounts** in one app, with an account warmer
 - **Instagram, Facebook, LinkedIn, TikTok and YouTube lead tools** (sign in with your own account)
